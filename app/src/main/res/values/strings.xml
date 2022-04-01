@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tarea02</string>
+    <string name="title_activity_actividad2">Actividad2</string>
+
+
+    <string name="txtUsuario">Ingresa tu usuario</string>
+    <string name="txtPassword">Ingresa tu password</string>
+
+    <string name="btnColores">Colores</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="txtRojo">Rojo 0 - 255</string>
+    <string name="txtVerde">Verde 0 - 255</string>
+    <string name="txtAzul">Azul 0 - 255</string>
+    <string name="txtOlvido">Olvidaste tu password?</string>
+
+
+    <string name="txtIMC">Ingresa los campos para conocer tu indice de masas corporal</string>
+    <string name="txtEdad">Ingresa tu edad</string>
+    <string name="txtPeso">Ingresa tu peso</string>
+    <string name="txtAltura">Ingresa tu altura</string>
+    <string name="txtHombre">Soy hombre</string>
+    <string name="txtMujer">Soy mujer</string>
+
+    <string name="txtSalir">Soy mujer</string>
+
+</resources>
